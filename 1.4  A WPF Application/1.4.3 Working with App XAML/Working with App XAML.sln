@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with App XAML", "Working with App XAML\Working with App XAML.csproj", "{9DF8E79B-668B-4412-A8EC-F57B82C6FA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF8E79B-668B-4412-A8EC-F57B82C6FA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF8E79B-668B-4412-A8EC-F57B82C6FA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF8E79B-668B-4412-A8EC-F57B82C6FA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF8E79B-668B-4412-A8EC-F57B82C6FA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADE0612-7168-47BF-8299-ACB2DE1D970B}
+	EndGlobalSection
+EndGlobal
