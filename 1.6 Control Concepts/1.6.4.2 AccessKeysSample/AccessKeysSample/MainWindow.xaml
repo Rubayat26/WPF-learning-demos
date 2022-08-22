@@ -1,0 +1,24 @@
+﻿<Window x:Class="AccessKeysSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AccessKeysSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel.Resources>
+            <Style TargetType="{x:Type Button}">
+                <Setter Property="Margin" Value="0,0,0,10" />
+                <Setter Property="Width" Value="100" />
+            </Style>
+        </StackPanel.Resources>
+        <Button Content="_New" Click="Button_Click"></Button>
+        <Button Content="_Open" Click="Button_Click"></Button>
+        <Button Content="_Save" Click="Button_Click"></Button>
+        <Button Content="Save _As" Click="Button_Click"></Button>
+        <!--
+        <Label Content="N_ame"></Label>
+        <TextBox></TextBox>-->
+    </StackPanel>
+</Window>
