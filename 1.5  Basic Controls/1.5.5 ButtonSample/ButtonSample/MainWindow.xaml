@@ -1,0 +1,38 @@
+﻿<Window x:Class="ButtonSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ButtonSample"
+        mc:Ignorable="d"
+        Title="ButtonSample" Height="180" Width="280">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Padding" Value="5,2"/>
+            <Setter Property="Margin" Value="0,3"/>
+        </Style>
+    </Window.Resources>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+
+
+        <Button Click="HelloWorldButton_Click" Padding="5,2">Hello, World!</Button>
+        <Button Background="Beige" Foreground="Blue" FontWeight="Bold">Formatted Button</Button>
+        <Button>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock>Formatted</TextBlock>
+                <TextBlock Foreground="Blue" FontWeight="Bold" Margin="2,0">Button</TextBlock>
+                <TextBlock Foreground="Gray" FontStyle="Italic">[Various]</TextBlock>
+            </StackPanel>
+        </Button>
+        <Button Padding="5">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="D:\Reading Materials\WPF Learning\WPF Learning with Demo\Images\help.png" />
+                <TextBlock Margin="5,0">Help</TextBlock>
+            </StackPanel>
+        </Button>
+    </StackPanel>
+</Window>
+
+    
+<!--for images copy the file path by right clicking and selecting "Copy as Path" 
+    and putting it inside the Source "" of Image -->    
