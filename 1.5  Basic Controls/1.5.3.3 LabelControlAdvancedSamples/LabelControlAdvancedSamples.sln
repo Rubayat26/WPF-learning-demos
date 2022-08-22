@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelControlAdvancedSamples", "LabelControlAdvancedSamples\LabelControlAdvancedSamples.csproj", "{BD64EA94-A757-4983-BD44-338EC9CBDD09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD64EA94-A757-4983-BD44-338EC9CBDD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD64EA94-A757-4983-BD44-338EC9CBDD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD64EA94-A757-4983-BD44-338EC9CBDD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD64EA94-A757-4983-BD44-338EC9CBDD09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0106791B-3E20-4E38-883E-C70C884EB3ED}
+	EndGlobalSection
+EndGlobal
