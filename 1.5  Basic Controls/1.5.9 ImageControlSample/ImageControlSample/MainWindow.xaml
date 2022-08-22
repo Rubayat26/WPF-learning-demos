@@ -1,0 +1,12 @@
+﻿<Window x:Class="ImageControlSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageControlSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="20">
+        <Image Source="https://i1.rgstatic.net/ii/profile.image/746589106741253-1555012122443_Q128/Rubayat-Islam.jpg" />
+    </Grid>
+</Window>
