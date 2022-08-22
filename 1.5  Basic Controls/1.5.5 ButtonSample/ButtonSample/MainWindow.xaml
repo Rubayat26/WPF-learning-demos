@@ -26,7 +26,7 @@
         </Button>
         <Button Padding="5">
             <StackPanel Orientation="Horizontal">
-                <Image Source="D:\Reading Materials\WPF Learning\WPF Learning with Demo\Images\help.png" />
+                <Image Source="/Images/help.png" />
                 <TextBlock Margin="5,0">Help</TextBlock>
             </StackPanel>
         </Button>
