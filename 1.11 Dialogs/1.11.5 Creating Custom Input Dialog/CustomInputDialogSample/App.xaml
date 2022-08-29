@@ -1,0 +1,13 @@
+﻿<Application x:Class="CustomInputDialogSample.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CustomInputDialogSample"
+             StartupUri="Window1.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
+
+    
+<!--Here the startUp URI is set to window1 not the MainWindow.Xaml as here the window1 will 
+    call the input from MainWindow-->    
