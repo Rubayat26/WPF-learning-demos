@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuManuallyInvoked", "ContextMenuManuallyInvoked\ContextMenuManuallyInvoked.csproj", "{EDBDCE05-C14C-4202-9731-6EC1BE850FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBDCE05-C14C-4202-9731-6EC1BE850FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBDCE05-C14C-4202-9731-6EC1BE850FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBDCE05-C14C-4202-9731-6EC1BE850FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBDCE05-C14C-4202-9731-6EC1BE850FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC7D4F05-93D2-4C2F-92A1-E2507E8AB51C}
+	EndGlobalSection
+EndGlobal
