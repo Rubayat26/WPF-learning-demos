@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject>RichTextEditorSample.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\disk.png" />
+    <None Remove="Images\folder.png" />
+    <None Remove="Images\text_bold.png" />
+    <None Remove="Images\text_italic.png" />
+    <None Remove="Images\text_underline.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\disk.png" />
+    <Resource Include="Images\folder.png" />
+    <Resource Include="Images\text_bold.png" />
+    <Resource Include="Images\text_italic.png" />
+    <Resource Include="Images\text_underline.png" />
+  </ItemGroup>
+
+</Project>
