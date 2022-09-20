@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBarSample", "ProgressBarSample\ProgressBarSample.csproj", "{DE7041DE-92F3-4C8F-BD8B-697222EFC8BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7041DE-92F3-4C8F-BD8B-697222EFC8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7041DE-92F3-4C8F-BD8B-697222EFC8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7041DE-92F3-4C8F-BD8B-697222EFC8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7041DE-92F3-4C8F-BD8B-697222EFC8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9160895E-B1A4-4111-81FD-8750CE7BCBC1}
+	EndGlobalSection
+EndGlobal

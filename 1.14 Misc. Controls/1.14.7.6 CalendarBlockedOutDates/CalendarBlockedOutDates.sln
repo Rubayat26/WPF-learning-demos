@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarBlockedOutDates", "CalendarBlockedOutDates\CalendarBlockedOutDates.csproj", "{420DA0FA-539E-4856-8C46-9E5422EBBD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420DA0FA-539E-4856-8C46-9E5422EBBD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420DA0FA-539E-4856-8C46-9E5422EBBD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420DA0FA-539E-4856-8C46-9E5422EBBD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420DA0FA-539E-4856-8C46-9E5422EBBD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877FD91E-1A44-466A-85F5-EDC9131A7DD3}
+	EndGlobalSection
+EndGlobal
